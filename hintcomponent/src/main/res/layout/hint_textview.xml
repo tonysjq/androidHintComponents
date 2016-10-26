@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    >
+<TextView
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/hint_text"
+    android:textColor="#fff"
+    android:textSize="14sp"
+    android:background="#515151"
+    android:gravity="center"
+    />
+</android.support.v7.widget.CardView>
